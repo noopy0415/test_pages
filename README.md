@@ -3,3 +3,5 @@
 test github pages test
 
 [text](/doc/test.md)
+
+このページは更新される？
